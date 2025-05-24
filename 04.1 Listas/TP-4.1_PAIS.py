@@ -72,4 +72,4 @@ print (compras)
 #● Posición lista_anidada[3]: False
 #Imprimir la lista resultante por pantalla.
 lista_anidada = [15, True, [25.5, 57.9, 30.6], False] #Agregamos a la lista los elementos en el orden establecido
-print (lista_anidada) #Imprimimos la lista resultante
+print (lista_anidada) #Imprimimos la lista resultante 
