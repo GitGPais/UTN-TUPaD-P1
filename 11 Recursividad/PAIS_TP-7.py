@@ -7,13 +7,13 @@ def factorial (n):
         return n * factorial(n - 1)
     
 #Ejercicio 2
-def fabonacci(n):
+def fibonacci(n):
     if n == 0:
         return 0
     elif n == 1:
         return 1
     else:
-        return fabonacci(n - 1) + fabonacci(n - 2)
+        return fibonacci(n - 1) + fabonacci(n - 2)
 
 #Ejercicio 3:
 def potencia(base, exponente):
